@@ -29,23 +29,35 @@ More results and details can be found on our [📖 Project Homepage](https://lea
 ## 📷 Quick Demos of Annotation
 More results and details can be found on our [📖 Project Homepage](https://leader360v.github.io/Leader360_Homepage_VUE/). 
 
-<video src="./assets/videos/anno1/manual1.mp4" autoplay="true" controls="controls">
-</video>
-
-
 <table class="center">
     <tr>
-    <td><img src="assets/videos/anno1/manual1.gif"></td>
-    <td><img src="assets/videos/anno1/pipe1.gif"></td>
-    <td><img src="assets/videos/anno1/raw1.gif"></td>
+    <td>Raw Videos</td>
+    <td>Pipeline Annotation</td>
+    <td>Manual Annotation</td>
     </tr>
 </table>
 
 <table>
     <tr>
-    <td><img src="assets/videos/Nature-Outdoor.gif"></td>
-    <td><img src="assets/videos/Road-Outdoor.gif"></td>
-    <td><img src="assets/videos/SubwayStation-Indoor.gif"></td>
+    <td><img src="assets/videos/anno1/raw1.gif"></td>
+    <td><img src="assets/videos/anno1/pipe1.gif"></td>
+    <td><img src="assets/videos/anno1/manual1.gif"></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+    <td><img src="assets/videos/anno2/raw2.gif"></td>
+    <td><img src="assets/videos/anno2/pipe2.gif"></td>
+    <td><img src="assets/videos/anno2/manual2.gif"></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+    <td><img src="assets/videos/anno3/raw3.gif"></td>
+    <td><img src="assets/videos/anno3/pipe3.gif"></td>
+    <td><img src="assets/videos/anno3/manual3.gif"></td>
     </tr>
 </table>
 
