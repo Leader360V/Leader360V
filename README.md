@@ -5,28 +5,49 @@
 ![Multi_Task_Learning](https://img.shields.io/badge/Feature-Multi_Task_Learning-red)  ![Diverse_Environments](https://img.shields.io/badge/Feature-Diverse_Environments-red) 
 ![overview](assets/imgs/Teaser_Figure_1_00.png "overview")
 
-## 📷 Quick Demos
+## 📷 Quick Demos with Different Scenarios
 More results and details can be found on our [📖 Project Homepage](https://leader360v.github.io/Leader360_Homepage_VUE/). 
 
 
 <table class="center">
     <tr>
-    <td><video src="assets/videos/Basement-Indoor.mp4"></td>
-    <td><video src="assets/videos/Grassland-Outdoor.mp4"></td>
-    <td><video src="assets/videos/Gym-Indoor.mp4"></td>
+    <td><img src="assets/videos/Basement-Indoor.gif"></td>
+    <td><img src="assets/videos/Grassland-Outdoor.gif"></td>
+    <td><img src="assets/videos/Gym-Indoor.gif"></td>
     </tr>
 </table>
 <!-- <p style="margin-left: 2em; margin-top: -1em">Model：<a href="https://civitai.com/models/30240/toonyou">ToonYou</a><p> -->
 
 <table>
     <tr>
-    <td><video src="assets/videos/Nature-Outdoor.mp4"></td>
-    <td><video src="assets/videos/Road-Outdoor.mp4"></td>
-    <td><video src="assets/videos/SubwayStation-Indoor.mp4"></td>
+    <td><img src="assets/videos/Nature-Outdoor.gif"></td>
+    <td><img src="assets/videos/Road-Outdoor.gif"></td>
+    <td><img src="assets/videos/SubwayStation-Indoor.gif"></td>
     </tr>
 </table>
 
+## 📷 Quick Demos of Annotation
+More results and details can be found on our [📖 Project Homepage](https://leader360v.github.io/Leader360_Homepage_VUE/). 
 
+<video src="./assets/videos/anno1/manual1.mp4" autoplay="true" controls="controls">
+</video>
+
+
+<table class="center">
+    <tr>
+    <td><img src="assets/videos/anno1/manual1.gif"></td>
+    <td><img src="assets/videos/anno1/pipe1.gif"></td>
+    <td><img src="assets/videos/anno1/raw1.gif"></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+    <td><img src="assets/videos/Nature-Outdoor.gif"></td>
+    <td><img src="assets/videos/Road-Outdoor.gif"></td>
+    <td><img src="assets/videos/SubwayStation-Indoor.gif"></td>
+    </tr>
+</table>
 
 🌟 For mare details, please refer to our project homepage: 
 "[Leader360V : A Large-scale, Real-world 360 Video Dataset for Multi-task Learning in Diverse Environments](https://leader360v.github.io/Leader360V_HomePage)".
