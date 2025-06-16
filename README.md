@@ -6,7 +6,7 @@
 ![overview](assets/imgs/Teaser_Figure_1_00.png "overview")
 
 ## 📷 Quick Demos
-More results can be found on our [📖 Project Homepage](https://leader360v.github.io/Leader360_Homepage_VUE/). 
+More results and details can be found on our [📖 Project Homepage](https://leader360v.github.io/Leader360_Homepage_VUE/). 
 
 
 <table class="center">
