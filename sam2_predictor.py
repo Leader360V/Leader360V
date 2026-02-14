@@ -80,7 +80,7 @@ class SAM2Predictor:
 
     def predict_frame(self, global_frame_idx: int = 0):
         frame = self.video_reader.read_frame(global_frame_idx)
-        model_masks, model_labels = self.frame_predictor.predict(frame, frame_idx=global_frame_idx)
+        model_masks, model_labels = self.frame_predictor.predict(frame, use_llm=self.use_llm)
         segmented_ratio = get_segmented_ratio(model_masks)
         if global_frame_idx != 0:
             sam2_masks = self.video_segments[global_frame_idx]["masks"]
